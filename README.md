@@ -1,2 +1,2 @@
-# comp1711
+# COMP1711
 Zhenshuo Wu
